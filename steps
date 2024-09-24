@@ -1,0 +1,16 @@
+create a repo with the name you want
+----------------------------------
+
+cd C:\Users\Ansh\Downloads\folderName
+git init
+
+git add .
+
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/ansht9/capstone.git
+
+git push -u origin master
+
+---------
+now go to the github and verify upload
