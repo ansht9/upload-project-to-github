@@ -8,7 +8,7 @@ git add .
 
 git commit -m "Initial commit"
 
-git remote add origin https://github.com/ansht9/capstone.git
+git remote add origin https://github.com/ansht9/repoName.git
 
 git push -u origin master
 
