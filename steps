@@ -14,3 +14,19 @@ git push -u origin master
 
 ---------
 now go to the github and verify upload
+-----------
+to prevent copying node modules - 
+
+cd C:\Users\Ansh\Downloads\folderName
+git init
+
+echo node_modules/ > .gitignore
+
+git add .
+
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/ansht9/repoName.git
+
+git push -u origin master
+
